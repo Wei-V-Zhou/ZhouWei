@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to ZhouWei's personal webpage
 
-You can use the [editor on GitHub](https://github.com/Wei-V-Zhou/ZhouWei/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Warmly, you can contact me by my personal [E-mail](zhouw19@mails.tsinghua.edu.cn) to disscuss something about everything.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you have some questions about my script, please go to my [Wei-V-Zhou Github](https://github.com/Wei-V-Zhou) to rebuld the programe in bioinformatic analysis.
 
-### Markdown
+### Hot Website
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Google scholar](https://x.glgoo.top/scholar?hl=zh-CN&as_sdt=0%2C5&q=&btnG=)
 
-```markdown
-Syntax highlighted code block
+[Sci-hub](http://www.sci-hub.tw/)
 
-# Header 1
-## Header 2
-### Header 3
+[Wei-V-Zhou Github](https://github.com/Wei-V-Zhou)
 
-- Bulleted
-- List
+### R script style
+```R script
+Simple usages for R
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+- inputdata
+read.table/csv/...("filename", header = T, ...)
+- outputdata
+save(objectives, file="...")
+- basic languages
+1. BiocManager::install("packages")
+2. library("packages")
+3. **notice the word**
+4. _fond the importance)
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wei-V-Zhou/ZhouWei/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>To be, or not to be.
+>> It all denpends up to you.
