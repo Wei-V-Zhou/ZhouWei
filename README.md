@@ -12,21 +12,37 @@ Whenever you have some questions about my script, please go to my [Wei-V-Zhou Gi
 
 [Wei-V-Zhou Github](https://github.com/Wei-V-Zhou)
 
+***
+### Personal Introduction
+
+I am *ZhouWei*,
+
+I am from **Chongqing**,
+
+I am going to the an ~~unknown universe~~.
+
+Hobby|Food|Exercise
+--|:--:|--:
+Write|Tomato|Football
+Music|Rice|Run
+
 ### R script style
 ```R script
 Simple usages for R
 
 - inputdata
 read.table/csv/...("filename", header = T, ...)
+
 - outputdata
 save(objectives, file="...")
+
 - basic languages
 1. BiocManager::install("packages")
 2. library("packages")
 3. **notice the word**
-4. _fond the importance)
-[Link](url) and ![Image](src)
-```
+4. _find the importance_
 
+```
+***
 >To be, or not to be.
 >> It all denpends up to you.
