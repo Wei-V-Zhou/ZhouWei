@@ -1,6 +1,6 @@
 ## Welcome to ZhouWei's personal webpage
 
-Warmly, you can contact me by my personal E-mail***zhouw19@mails.tsinghua.edu.cn*** to disscuss something about everything.
+Warmly, you can contact me by my personal E-mail:***zhouw19@mails.tsinghua.edu.cn*** to disscuss something about everything.
 
 Whenever you have some questions about my script, please go to my [Wei-V-Zhou Github](https://github.com/Wei-V-Zhou) to rebuld the programe in bioinformatic analysis.
 
